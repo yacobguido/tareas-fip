@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-image: url("/Fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.buttons{
+    justify-content: center;
+    align-items: center;
+}
+.Question{
+    background-color: aliceblue;
+    color: black;
+
+}
+.NextQuestion{
+    justify-content: center;
+    align-items: flex-end;
+
+    
+}
