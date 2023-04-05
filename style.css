@@ -6,12 +6,6 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
-.Start{
-    justify-content: center;
-    align-items: flex-end;
-    
-    
-}
 .Container{
     width: 250px;
     height: 250px;
