@@ -6,6 +6,9 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+.Title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .Container{
     width: 250px;
     height: 250px;
